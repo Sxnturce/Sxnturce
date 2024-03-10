@@ -24,8 +24,7 @@
 ### Contact with me 📝
 
 [<img align="left" alt="Sxnturce.github.io" height="30px" src="https://img.icons8.com/color/48/domain--v1.png" />][website]
-[<img align="left" alt="bilgehangecici | LinkedIn" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725337.svg"/>][linkedin]
-[<img align="left" alt="bilgehangecici | Instagram" height="30px" src="https://image.flaticon.com/icons/svg/725/725278.svg" />][instagram]
+[<img align="left" alt="Sebastiansr_l | Instagram" height="30px" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-spotify-music-and-podcasts-from-record-labels-and-media-companies-logo-color-tal-revivo.png" />][instagram]
 [<img align="left" alt="bilgehangecici | Spotify" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725281.svg" />][Spotify]
 
 <br />
