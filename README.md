@@ -74,9 +74,6 @@
 
 <br/>
 
----
-
-### ⭐️ From [Sxnturce](https://github.com/Sxnturce) ### 
 
 ---
 
