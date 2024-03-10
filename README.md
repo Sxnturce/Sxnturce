@@ -15,7 +15,7 @@
 
 ### Spotify Playing 🎧
 
-[![spotify](novatorem-9p7yxhy2g-sebastiansrs-projects.vercel.app/api/view?uid=ty5l2hxbowip24hm3za25p16s&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true)](https://open.spotify.com/user/ty5l2hxbowip24hm3za25p16s)
+[[https://spotify-github-profile.vercel.app/api/view.svg?uid=ty5l2hxbowip24hm3za25p16s&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=ty5l2hxbowip24hm3za25p16s&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=false)]]
 
 
 ### Contact with me 📝
