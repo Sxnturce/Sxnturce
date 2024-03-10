@@ -15,7 +15,7 @@
 
 ### Spotify Playing 🎧
 
-[![Spotify](https://novatorem-9p7yxhy2g-sebastiansrs-projects.vercel.app/api/spotify)](https://open.spotify.com/user/SebastianSR)
+[![Spotify](https://novatorem-9p7yxhy2g-sebastiansrs-projects.vercel.app/api/spotify)](https://open.spotify.com/user/ty5l2hxbowip24hm3za25p16s)
 
 
 ### Contact with me 📝
