@@ -83,6 +83,5 @@
 
 [website]: https://sxnturce.github.io/
 [instagram]: https://www.instagram.com/sebastiansr_l/
-[linkedin]: https://www.linkedin.com/in/sebastian-sicha-ruiz-8090a8243/
 [Spotify]: https://open.spotify.com/user/ty5l2hxbowip24hm3za25p16s
 
