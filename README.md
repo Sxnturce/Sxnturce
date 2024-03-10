@@ -81,10 +81,10 @@
 
 ---
 
-[website]: http://bilgehangecici.site/
-[instagram]: https://www.instagram.com/bilgehangecici
-[linkedin]: https://www.linkedin.com/in/bilgehan-geçici-8b368614a/
-[Spotify]: https://open.spotify.com/user/11153360645
+[website]: https://sxnturce.github.io/
+[instagram]: https://www.instagram.com/sebastiansr_l/
+[linkedin]: https://www.linkedin.com/in/sebastian-sicha-ruiz-8090a8243/
+[Spotify]: https://open.spotify.com/user/ty5l2hxbowip24hm3za25p16s
 
 
 ----
