@@ -77,7 +77,7 @@
 
 ---
 
-### ⭐️ From [Bgstatic](https://github.com/Bgstatic) ### 
+### ⭐️ From [Sxnturce](https://github.com/Sxnturce) ### 
 
 ---
 
