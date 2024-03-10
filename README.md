@@ -15,7 +15,7 @@
 
 ### Spotify Playing 🎧
 
-[![Spotify]([![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ty5l2hxbowip24hm3za25p16s&cover_image=true&theme=default&show_offline=false&background_color=050505&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=ty5l2hxbowip24hm3za25p16s&redirect=true))
+[![Spotify]([![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ty5l2hxbowip24hm3za25p16s&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/Sxnturce/spotify-github-profile))
 
 
 ### Contact with me 📝
