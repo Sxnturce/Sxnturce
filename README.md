@@ -15,7 +15,7 @@
 
 ### Spotify Playing 🎧
 
-[![Spotify](novatorem-9p7yxhy2g-sebastiansrs-projects.vercel.app/api/spotify)](https://open.spotify.com/user/ty5l2hxbowip24hm3za25p16s)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ty5l2hxbowip24hm3za25p16s&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
 
 
 ### Contact with me 📝
