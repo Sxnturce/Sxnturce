@@ -17,9 +17,7 @@
 
 [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/ty5l2hxbowip24hm3za25p16s)
 
----
 
-<img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Sxnturce&repo=Sxnturce&countColorcountColor&countColor=%237B1E7B"/>
 
 ### Contact with me 📝
 
