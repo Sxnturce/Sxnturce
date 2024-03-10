@@ -86,8 +86,3 @@
 [linkedin]: https://www.linkedin.com/in/sebastian-sicha-ruiz-8090a8243/
 [Spotify]: https://open.spotify.com/user/ty5l2hxbowip24hm3za25p16s
 
-
-----
-Credit: [Bgstatic](https://github.com/Bgstatic)
-
-Last Edited on: 23/09/2020
