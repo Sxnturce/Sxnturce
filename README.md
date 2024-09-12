@@ -15,7 +15,7 @@
 
 ### Spotify Playing 🎧
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=ty5l2hxbowip24hm3za25p16s&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=false&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=ty5l2hxbowip24hm3za25p16s&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=ty5l2hxbowip24hm3za25p16s&cover_image=true&theme=default&show_offline=false&background_color=080808&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=ty5l2hxbowip24hm3za25p16s&redirect=true)
 
 
 ### Contact with me 📝
