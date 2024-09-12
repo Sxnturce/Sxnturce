@@ -11,7 +11,7 @@
 - 💪🏼 Future Goals: Keep learning and evolving - Never stop creating new ideas.
 - ⚡ Fun fact: I love to play pool and snooker 🎱.
 
----
+
 
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 
@@ -19,8 +19,8 @@
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=ty5l2hxbowip24hm3za25p16s&cover_image=true&theme=default&show_offline=false&background_color=080808&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=ty5l2hxbowip24hm3za25p16s&redirect=true)
 
----
-### 🚀 Proyectos Destacados
+
+##  **🚀 Proyectos Destacados**
 
 - [📱 **App de Gestión de Inventarios**](https://github.com/Sxnturce/inventory-management) 
   Una plataforma completa para la gestión de inventarios para tiendas minoristas, desarrollada con Node.js, React, y Sequelize.
@@ -31,9 +31,8 @@
 - [🎮 **Juego de Pool Multijugador**](https://github.com/Sxnturce/multiplayer-pool-game)  
   Juego de pool multijugador con físicas realistas, creado con JavaScript y Socket.io.
 
----
 
-### 🛠️ Herramientas y Tecnologías
+## **🛠️ Herramientas y Tecnologías**
 
 - **Frontend**: HTML, CSS, JavaScript, React, Tailwind, Sass, Bootstrap
 - **Backend**: Node.js, Express, Sequelize, MongoDB, SQL
@@ -55,13 +54,8 @@
 <a href= # > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nodejs.svg'> </a>
 <a href= # > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/git.svg'> </a>
 <a href= # > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg'> </a>
-<a href= # > <img width ='32px' src ='https://img.icons8.com/color/48/sequelize.png'> </a>
+<a href= # > <img width ='32px' src ='https://img.icons8.com/color/48/mysql.png'> </a>
 <a href= # > <img width ='32px' src ='https://img.icons8.com/color/48/mongodb.png'> </a>
-
-
-<br/>
-
----
 
 <br/>
 
@@ -77,9 +71,6 @@
 </div
 
 <br/>
-
-
----
 
 [website]: https://sxnturce.github.io/
 [instagram]: https://www.instagram.com/sebastiansr_l/
